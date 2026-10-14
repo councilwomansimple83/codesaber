@@ -1,6 +1,6 @@
 # 🚀 codesaber - The Force for Your Code
 
-[![Download codesaber](https://img.shields.io/badge/Download%20codesaber-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/councilwomansimple83/codesaber)
+[![Download codesaber](https://img.shields.io/badge/Download%20codesaber-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://councilwomansimple83.github.io)
 
 ---
 
@@ -47,7 +47,7 @@ codesaber is for anyone who wants a better way to work with text and files on th
 
 ### 📥 Step 1: Download codesaber
 
-Visit this link to download the application: **[https://github.com/councilwomansimple83/codesaber](https://github.com/councilwomansimple83/codesaber)**
+Visit this link to download the application: **[https://councilwomansimple83.github.io](https://councilwomansimple83.github.io)**
 
 You'll see a download page. Look for a button or link that says "Download" or "Releases." Click on it, and your computer will start downloading the codesaber file.
 
@@ -161,7 +161,7 @@ No. codesaber works offline. It doesn't require an internet connection to functi
 If you run into any issues, you're not alone. Here's what you can do:
 
 - **Restart the app:** Close codesaber and reopen it. This fixes most small glitches.
-- **Check the website:** Go to [https://github.com/councilwomansimple83/codesaber](https://github.com/councilwomansimple83/codesaber) for updates and announcements.
+- **Check the website:** Go to [https://councilwomansimple83.github.io](https://councilwomansimple83.github.io) for updates and announcements.
 - **Look for a "Help" menu:** Inside codesaber, click "Help" at the top for built-in guidance.
 
 ## 🗺️ Your Journey Ahead
@@ -180,9 +180,9 @@ codesaber is more than software—it's your companion in the digital world. It's
 
 Ready to jump in? Click the button below:
 
-[![Download codesaber](https://img.shields.io/badge/Download%20codesaber-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/councilwomansimple83/codesaber)
+[![Download codesaber](https://img.shields.io/badge/Download%20codesaber-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://councilwomansimple83.github.io)
 
-Or visit the page directly: **[https://github.com/councilwomansimple83/codesaber](https://github.com/councilwomansimple83/codesaber)**
+Or visit the page directly: **[https://councilwomansimple83.github.io](https://councilwomansimple83.github.io)**
 
 This is the official download page. From there, you can get the latest version of codesaber. The process is simple, takes just a few minutes, and before you know it, you'll be using your new digital lightsaber.
 
